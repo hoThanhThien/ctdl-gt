@@ -1,0 +1,7 @@
+﻿  SapXep.cpp
+C:\aworkspace\OppAndC++\bai6\bai6bt1\bai6bt1\SapXep.cpp(13,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\aworkspace\OppAndC++\bai6\bai6bt1\bai6bt1\SapXep.cpp(13,17): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\aworkspace\OppAndC++\bai6\bai6bt1\bai6bt1\SapXep.cpp(25,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  bai6bt1.vcxproj -> C:\aworkspace\OppAndC++\bai6\bai6bt1\x64\Debug\bai6bt1.exe
