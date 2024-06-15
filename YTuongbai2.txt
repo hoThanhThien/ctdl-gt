@@ -1,0 +1,15 @@
+Ý tưởng:
+QuickSort với pivot là phần tử đầu dãy:
+
+Chọn phần tử đầu dãy làm pivot.
+Phân đoạn mảng dựa trên pivot.
+Gọi đệ quy để sắp xếp các phần tử nhỏ hơn pivot và lớn hơn pivot.
+QuickSort với pivot là phần tử ở giữa dãy:
+
+Chọn phần tử ở giữa dãy làm pivot.
+Phân đoạn mảng dựa trên pivot.
+Gọi đệ quy để sắp xếp các phần tử nhỏ hơn pivot và lớn hơn pivot.
+So sánh thời gian chạy:
+
+Đo thời gian bắt đầu và kết thúc của mỗi lần gọi QuickSort với pivot là đầu dãy và pivot là giữa dãy.
+Tính và so sánh thời gian chạy của hai trường hợp để xác định sự khác biệt.
