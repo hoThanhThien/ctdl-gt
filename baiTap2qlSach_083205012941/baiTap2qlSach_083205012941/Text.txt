@@ -1,8 +1,0 @@
-﻿2.	Thông tin của một quyển sách trong thư viện gồm các thông tin: 
-•	Tên sách (chuỗi) 
-•	Tác giả (chuỗi, tối đa 5 tác giả) 
-•	Nhà xuất bản (chuỗi) 
-•	Năm xuất bản (số nguyên) 
-a.	Hãy tạo danh sách liên kết (đơn hoặc kép) chứa thông tin các quyển sách có trong thư viện (được nhập từ bàn phím). 
-b.	Cho biết số lượng các quyển sách của một tác giả bất kỳ (nhập từ bàn phím). 
-c.	Trong năm YYYY (nhập từ bàn phím), nhà xuất bản ABC (nhập từ bàn phím) đã phát hành những quyển sách nào. 
