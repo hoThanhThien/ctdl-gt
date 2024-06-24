@@ -1,0 +1,9 @@
+﻿  LinkedList.cpp
+  main.cpp
+C:\Users\DELL\OneDrive - ut.edu.vn\aworkspace\ctdl_gt\baiTap2qlSach_083205012941\baiTap2qlSach_083205012941\main.cpp(50,12): error C2039: 'hienThiDanhSach': is not a member of 'LinkedList'
+      C:\Users\DELL\OneDrive - ut.edu.vn\aworkspace\ctdl_gt\baiTap2qlSach_083205012941\baiTap2qlSach_083205012941\LinkedList.h(4,7):
+      see declaration of 'LinkedList'
+  
+C:\Users\DELL\OneDrive - ut.edu.vn\aworkspace\ctdl_gt\baiTap2qlSach_083205012941\baiTap2qlSach_083205012941\main.cpp(10,12): error C1075: '{': no matching token found
+  Node.cpp
+  Generating Code...
