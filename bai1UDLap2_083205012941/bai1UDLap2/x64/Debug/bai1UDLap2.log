@@ -1,0 +1,6 @@
+﻿  main.cpp
+  polynomial.cpp
+C:\aworkspace\CTDL&GT\ctdl_lk\bai1UDLap2\bai1UDLap2\polynomial.cpp(72,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  term.cpp
+  Generating Code...
+  bai1UDLap2.vcxproj -> C:\aworkspace\CTDL&GT\ctdl_lk\bai1UDLap2\x64\Debug\bai1UDLap2.exe
