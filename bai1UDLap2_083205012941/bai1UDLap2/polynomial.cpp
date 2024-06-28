@@ -1,6 +1,6 @@
 ﻿#include "polynomial.h"
 #include <iostream>
-#include <cmath> // Bao gồm thư viện để sử dụng hàm pow
+#include <cmath> 
 
 // Hàm khởi tạo: Khởi tạo đa thức với danh sách liên kết rỗng
 Polynomial::Polynomial() : head(nullptr) {}
