@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T13:34:23.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="grTGFOlU-b5uydYoVzlH" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T13:38:01.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wNn5kFAGJLcrl06DWub5" version="24.6.4" type="github">
   <diagram name="Trang-1" id="2DYWAN5hthaWt-I_ADUZ">
     <mxGraphModel dx="1276" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
             <mxPoint x="480" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c82SJm1BQEb7knvldoy7-34" value="Lệch trái trái" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c82SJm1BQEb7knvldoy7-34" value="quay phải" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
