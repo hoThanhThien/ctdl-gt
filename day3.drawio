@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T03:19:02.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1nyLHilf3KXJxGi58rXE" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T03:21:34.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fitAE__mcCOGZcqRoS3A" version="24.6.5" type="github">
   <diagram name="Trang-1" id="h6uTmTzgYNDOwts86tQp">
     <mxGraphModel dx="1334" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,10 +59,10 @@
           <mxGeometry y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HLMDuG3fLgRXilaJ3gHk-2" value="Sex" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HLMDuG3fLgRXilaJ3gHk-3" value="Salary" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HLMDuG3fLgRXilaJ3gHk-4" value="Address" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="100" height="40" as="geometry" />
@@ -141,6 +141,36 @@
         </mxCell>
         <mxCell id="HLMDuG3fLgRXilaJ3gHk-24" value="SUPERVISION" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HLMDuG3fLgRXilaJ3gHk-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLMDuG3fLgRXilaJ3gHk-1" target="HLMDuG3fLgRXilaJ3gHk-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="310" as="sourcePoint" />
+            <mxPoint x="70" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLMDuG3fLgRXilaJ3gHk-27" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="HLMDuG3fLgRXilaJ3gHk-26">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLMDuG3fLgRXilaJ3gHk-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLMDuG3fLgRXilaJ3gHk-1" target="HLMDuG3fLgRXilaJ3gHk-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="310" as="sourcePoint" />
+            <mxPoint x="70" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLMDuG3fLgRXilaJ3gHk-33" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="HLMDuG3fLgRXilaJ3gHk-32">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLMDuG3fLgRXilaJ3gHk-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.9;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLMDuG3fLgRXilaJ3gHk-1" target="BfvdOl0KQk4hSK4dBflX-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="310" as="sourcePoint" />
+            <mxPoint x="300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLMDuG3fLgRXilaJ3gHk-35" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="HLMDuG3fLgRXilaJ3gHk-34">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLMDuG3fLgRXilaJ3gHk-36" value="MANAGES" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
